@@ -1,0 +1,1 @@
+tomcat-stuffed-1.0.exe -Dcatalina.base="%TOMCAT_STUFFED%" -Djava.util.logging.config.file="%TOMCAT_STUFFED%\conf\logging.properties" --catalina -useGeneratedCode

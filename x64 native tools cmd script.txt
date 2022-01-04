@@ -1,0 +1,5 @@
+***run as admin x64 native tools cmd***
+
+cd %TOMCAT_STUFFED%
+
+%JAVA_HOME%\bin\native-image --no-server -J--add-exports=java.management/sun.management=ALL-UNNAMED --allow-incomplete-classpath --enable-https --initialize-at-build-time=org.eclipse.jdt,org.apache.el.parser.SimpleNode,jakarta.servlet.jsp.JspFactory,org.apache.jasper.servlet.JasperInitializer,org.apache.jasper.runtime.JspFactoryImpl -H:+JNI -H:+ReportUnsupportedElementsAtRuntime -H:+ReportExceptionStackTraces -H:EnableURLProtocols=http,https,jar,jrt -H:ConfigurationFileDirectories="%TOMCAT_STUFFED%\target" -H:ReflectionConfigurationFiles="%TOMCAT_STUFFED%\tomcat-reflection.json" -H:ResourceConfigurationFiles="%TOMCAT_STUFFED%\tomcat-resource.json" -H:JNIConfigurationFiles="%TOMCAT_STUFFED%\tomcat-jni.json" -jar target\tomcat-stuffed-1.0.jar

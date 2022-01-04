@@ -1,0 +1,826 @@
+[
+{
+  "name":"TomcatNativeImageTest.org.apache.jsp.page_jsp",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"[B"}
+,
+{
+  "name":"[C"}
+,
+{
+  "name":"[D"}
+,
+{
+  "name":"[F"}
+,
+{
+  "name":"[I"}
+,
+{
+  "name":"[J"}
+,
+{
+  "name":"[Ljava.lang.String;"}
+,
+{
+  "name":"[Ljavax.management.openmbean.CompositeData;"}
+,
+{
+  "name":"[S"}
+,
+{
+  "name":"[Z"}
+,
+{
+  "name":"com.mycompany.tomcatnativeimagetest.init.InitClass",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"com.mycompany.tomcatnativeimagetest.servlet.ToPageJspServlet",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"com.sun.management.GarbageCollectorMXBean",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"com.sun.management.GcInfo",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"com.sun.management.HotSpotDiagnosticMXBean",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"com.sun.management.OperatingSystemMXBean",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"com.sun.management.ThreadMXBean",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"com.sun.management.VMOption",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"com.sun.management.internal.GarbageCollectorExtImpl",
+  "queryAllPublicConstructors":true}
+,
+{
+  "name":"com.sun.management.internal.HotSpotDiagnostic",
+  "queryAllPublicConstructors":true}
+,
+{
+  "name":"com.sun.management.internal.HotSpotThreadImpl",
+  "queryAllPublicConstructors":true}
+,
+{
+  "name":"com.sun.management.internal.OperatingSystemImpl",
+  "queryAllPublicConstructors":true}
+,
+{
+  "name":"com.sun.org.apache.xerces.internal.jaxp.SAXParserFactoryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"jakarta.servlet.GenericFilter",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"jakarta.servlet.GenericServlet",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"jakarta.servlet.http.HttpServlet",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"jakarta.servlet.jsp.JspContext"}
+,
+{
+  "name":"java.lang.Boolean",
+  "fields":[{"name":"TYPE"}]}
+,
+{
+  "name":"java.lang.Byte",
+  "fields":[{"name":"TYPE"}]}
+,
+{
+  "name":"java.lang.Character",
+  "fields":[{"name":"TYPE"}]}
+,
+{
+  "name":"java.lang.Class",
+  "methods":[{"name":"getModule","parameterTypes":[] }]}
+,
+{
+  "name":"java.lang.Deprecated",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.Double",
+  "fields":[{"name":"TYPE"}]}
+,
+{
+  "name":"java.lang.Float",
+  "fields":[{"name":"TYPE"}]}
+,
+{
+  "name":"java.lang.Integer",
+  "fields":[{"name":"TYPE"}]}
+,
+{
+  "name":"java.lang.Long",
+  "fields":[{"name":"TYPE"}]}
+,
+{
+  "name":"java.lang.Module",
+  "methods":[{"name":"isExported","parameterTypes":["java.lang.String"] }],
+  "queriedMethods":[{"name":"getName","parameterTypes":[] }]}
+,
+{
+  "name":"java.lang.ModuleLayer",
+  "methods":[
+    {"name":"boot","parameterTypes":[] }, 
+    {"name":"configuration","parameterTypes":[] }
+  ]}
+,
+{
+  "name":"java.lang.Object",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"java.lang.Runtime$Version",
+  "methods":[{"name":"major","parameterTypes":[] }]}
+,
+{
+  "name":"java.lang.Short",
+  "fields":[{"name":"TYPE"}]}
+,
+{
+  "name":"java.lang.StackTraceElement",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.String"}
+,
+{
+  "name":"java.lang.Void",
+  "fields":[{"name":"TYPE"}]}
+,
+{
+  "name":"java.lang.management.BufferPoolMXBean",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.management.ClassLoadingMXBean",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.management.CompilationMXBean",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.management.LockInfo",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.management.ManagementPermission",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String"] }]}
+,
+{
+  "name":"java.lang.management.MemoryMXBean",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.management.MemoryManagerMXBean",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.management.MemoryPoolMXBean",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.management.MemoryUsage",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.management.MonitorInfo",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.management.PlatformLoggingMXBean",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.management.RuntimeMXBean",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.management.ThreadInfo",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.module.Configuration",
+  "methods":[{"name":"modules","parameterTypes":[] }]}
+,
+{
+  "name":"java.lang.module.ModuleReference",
+  "methods":[{"name":"location","parameterTypes":[] }]}
+,
+{
+  "name":"java.lang.module.ResolvedModule",
+  "methods":[{"name":"reference","parameterTypes":[] }]}
+,
+{
+  "name":"java.lang.reflect.AccessibleObject",
+  "queriedMethods":[{"name":"canAccess","parameterTypes":["java.lang.Object"] }]}
+,
+{
+  "name":"java.lang.reflect.InaccessibleObjectException"}
+,
+{
+  "name":"java.math.BigDecimal"}
+,
+{
+  "name":"java.math.BigInteger"}
+,
+{
+  "name":"java.net.URLConnection",
+  "queriedMethods":[{"name":"setDefaultUseCaches","parameterTypes":["java.lang.String","boolean"] }]}
+,
+{
+  "name":"java.net.UnixDomainSocketAddress",
+  "queriedMethods":[{"name":"of","parameterTypes":["java.lang.String"] }]}
+,
+{
+  "name":"java.nio.channels.ServerSocketChannel",
+  "queriedMethods":[{"name":"open","parameterTypes":["java.net.ProtocolFamily"] }]}
+,
+{
+  "name":"java.nio.channels.SocketChannel",
+  "queriedMethods":[{"name":"open","parameterTypes":["java.net.ProtocolFamily"] }]}
+,
+{
+  "name":"java.security.SecureRandomParameters"}
+,
+{
+  "name":"java.util.ArrayList",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"add","parameterTypes":["java.lang.Object"] }]}
+,
+{
+  "name":"java.util.Date"}
+,
+{
+  "name":"java.util.Optional",
+  "methods":[
+    {"name":"get","parameterTypes":[] }, 
+    {"name":"isPresent","parameterTypes":[] }
+  ]}
+,
+{
+  "name":"java.util.PropertyPermission",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String","java.lang.String"] }]}
+,
+{
+  "name":"java.util.concurrent.ScheduledThreadPoolExecutor",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.jar.JarFile",
+  "methods":[
+    {"name":"<init>","parameterTypes":["java.io.File","boolean","int","java.lang.Runtime$Version"] }, 
+    {"name":"isMultiRelease","parameterTypes":[] }, 
+    {"name":"runtimeVersion","parameterTypes":[] }
+  ]}
+,
+{
+  "name":"java.util.logging.LogManager",
+  "methods":[{"name":"getLoggingMXBean","parameterTypes":[] }]}
+,
+{
+  "name":"java.util.logging.LoggingMXBean",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"javax.management.MBeanOperationInfo",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"javax.management.MBeanServerBuilder",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"javax.management.ObjectName"}
+,
+{
+  "name":"javax.management.openmbean.CompositeData"}
+,
+{
+  "name":"javax.management.openmbean.OpenMBeanOperationInfoSupport"}
+,
+{
+  "name":"javax.management.openmbean.TabularData"}
+,
+{
+  "name":"javax.net.ssl.SSLEngine",
+  "queriedMethods":[{"name":"getApplicationProtocol","parameterTypes":[] }]}
+,
+{
+  "name":"javax.net.ssl.SSLParameters",
+  "queriedMethods":[{"name":"setApplicationProtocols","parameterTypes":["java.lang.String[]"] }]}
+,
+{
+  "name":"jdk.management.jfr.ConfigurationInfo",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"jdk.management.jfr.EventTypeInfo",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"jdk.management.jfr.FlightRecorderMXBean",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"jdk.management.jfr.FlightRecorderMXBeanImpl",
+  "queryAllPublicConstructors":true}
+,
+{
+  "name":"jdk.management.jfr.RecordingInfo",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"jdk.management.jfr.SettingDescriptorInfo",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"org.apache.catalina.Container"}
+,
+{
+  "name":"org.apache.catalina.Engine"}
+,
+{
+  "name":"org.apache.catalina.Realm"}
+,
+{
+  "name":"org.apache.catalina.Server"}
+,
+{
+  "name":"org.apache.catalina.Service"}
+,
+{
+  "name":"org.apache.catalina.Valve"}
+,
+{
+  "name":"org.apache.catalina.authenticator.NonLoginAuthenticator",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.catalina.connector.Connector",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"setPort","parameterTypes":["int"] }, 
+    {"name":"setProperty","parameterTypes":["java.lang.String","java.lang.String"] }, 
+    {"name":"setRedirectPort","parameterTypes":["int"] }
+  ]}
+,
+{
+  "name":"org.apache.catalina.core.ContainerBase",
+  "methods":[
+    {"name":"addValve","parameterTypes":["org.apache.catalina.Valve"] }, 
+    {"name":"setName","parameterTypes":["java.lang.String"] }, 
+    {"name":"setRealm","parameterTypes":["org.apache.catalina.Realm"] }
+  ]}
+,
+{
+  "name":"org.apache.catalina.core.StandardContext",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"addWatchedResource","parameterTypes":["java.lang.String"] }, 
+    {"name":"setPath","parameterTypes":["java.lang.String"] }
+  ]}
+,
+{
+  "name":"org.apache.catalina.core.StandardEngine",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"addChild","parameterTypes":["org.apache.catalina.Container"] }, 
+    {"name":"getParentClassLoader","parameterTypes":[] }, 
+    {"name":"setDefaultHost","parameterTypes":["java.lang.String"] }
+  ]}
+,
+{
+  "name":"org.apache.catalina.core.StandardHost",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"setAppBase","parameterTypes":["java.lang.String"] }, 
+    {"name":"setAutoDeploy","parameterTypes":["boolean"] }, 
+    {"name":"setName","parameterTypes":["java.lang.String"] }, 
+    {"name":"setUnpackWARs","parameterTypes":["boolean"] }
+  ]}
+,
+{
+  "name":"org.apache.catalina.core.StandardServer",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"addService","parameterTypes":["org.apache.catalina.Service"] }, 
+    {"name":"setGlobalNamingResources","parameterTypes":["org.apache.catalina.deploy.NamingResourcesImpl"] }, 
+    {"name":"setPort","parameterTypes":["int"] }, 
+    {"name":"setShutdown","parameterTypes":["java.lang.String"] }
+  ]}
+,
+{
+  "name":"org.apache.catalina.core.StandardService",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"addConnector","parameterTypes":["org.apache.catalina.connector.Connector"] }, 
+    {"name":"setContainer","parameterTypes":["org.apache.catalina.Engine"] }, 
+    {"name":"setName","parameterTypes":["java.lang.String"] }
+  ]}
+,
+{
+  "name":"org.apache.catalina.deploy.NamingResourcesImpl",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"addResource","parameterTypes":["org.apache.tomcat.util.descriptor.web.ContextResource"] }
+  ]}
+,
+{
+  "name":"org.apache.catalina.ha.ClusterRuleSet",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String"] }]}
+,
+{
+  "name":"org.apache.catalina.mbeans.ClassNameMBean",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.catalina.mbeans.ConnectorMBean",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.catalina.mbeans.ContainerMBean",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.catalina.mbeans.ContextMBean",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.catalina.mbeans.ContextResourceMBean",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.catalina.mbeans.NamingResourcesMBean",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.catalina.mbeans.ServiceMBean",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.catalina.realm.CombinedRealm",
+  "methods":[{"name":"addRealm","parameterTypes":["org.apache.catalina.Realm"] }]}
+,
+{
+  "name":"org.apache.catalina.realm.LockOutRealm",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.catalina.realm.UserDatabaseRealm",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"setResourceName","parameterTypes":["java.lang.String"] }
+  ]}
+,
+{
+  "name":"org.apache.catalina.servlets.DefaultServlet",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.catalina.startup.Catalina",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"setServer","parameterTypes":["org.apache.catalina.Server"] }]}
+,
+{
+  "name":"org.apache.catalina.startup.ContextConfig",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.catalina.startup.EngineConfig",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.catalina.startup.HostConfig",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.catalina.users.MemoryUserDatabaseFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.catalina.util.CharsetMapper",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.catalina.valves.AbstractAccessLogValve",
+  "methods":[{"name":"setPattern","parameterTypes":["java.lang.String"] }]}
+,
+{
+  "name":"org.apache.catalina.valves.AccessLogValve",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"setDirectory","parameterTypes":["java.lang.String"] }, 
+    {"name":"setPrefix","parameterTypes":["java.lang.String"] }, 
+    {"name":"setSuffix","parameterTypes":["java.lang.String"] }
+  ]}
+,
+{
+  "name":"org.apache.coyote.AbstractProtocol",
+  "methods":[
+    {"name":"getAddress","parameterTypes":[] }, 
+    {"name":"setConnectionTimeout","parameterTypes":["int"] }, 
+    {"name":"setPort","parameterTypes":["int"] }, 
+    {"name":"setPortOffset","parameterTypes":["int"] }
+  ]}
+,
+{
+  "name":"org.apache.coyote.Request",
+  "queriedMethods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.coyote.RequestGroupInfo",
+  "queriedMethods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.coyote.RequestInfo",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"org.apache.coyote.Response",
+  "queriedMethods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.coyote.http11.AbstractHttp11Protocol",
+  "methods":[{"name":"isSSLEnabled","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.coyote.http11.Http11NioProtocol",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"org.apache.el.ExpressionFactoryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.jasper.runtime.HttpJspBase",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"org.apache.jasper.servlet.JasperInitializer",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.jasper.servlet.JspServlet",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.naming.factory.ResourceFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.tomcat.util.buf.StringCache",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"org.apache.tomcat.util.descriptor.tld.TagXml",
+  "queriedMethods":[{"name":"setDynamicAttributes","parameterTypes":["boolean"] }]}
+,
+{
+  "name":"org.apache.tomcat.util.descriptor.tld.TldRuleSet$Attribute",
+  "queriedMethods":[
+    {"name":"setFragment","parameterTypes":["boolean"] }, 
+    {"name":"setRequestTime","parameterTypes":["boolean"] }, 
+    {"name":"setRequired","parameterTypes":["boolean"] }
+  ]}
+,
+{
+  "name":"org.apache.tomcat.util.descriptor.tld.TldRuleSet$Variable",
+  "queriedMethods":[{"name":"setDeclare","parameterTypes":["boolean"] }]}
+,
+{
+  "name":"org.apache.tomcat.util.descriptor.web.ContextResource",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"setAuth","parameterTypes":["java.lang.String"] }
+  ]}
+,
+{
+  "name":"org.apache.tomcat.util.descriptor.web.ResourceBase",
+  "methods":[
+    {"name":"setDescription","parameterTypes":["java.lang.String"] }, 
+    {"name":"setName","parameterTypes":["java.lang.String"] }, 
+    {"name":"setProperty","parameterTypes":["java.lang.String","java.lang.Object"] }, 
+    {"name":"setType","parameterTypes":["java.lang.String"] }
+  ]}
+,
+{
+  "name":"org.apache.tomcat.util.descriptor.web.ServletDef",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"addInitParameter","parameterTypes":["java.lang.String","java.lang.String"] }, 
+    {"name":"setLoadOnStartup","parameterTypes":["java.lang.String"] }, 
+    {"name":"setServletClass","parameterTypes":["java.lang.String"] }, 
+    {"name":"setServletName","parameterTypes":["java.lang.String"] }
+  ]}
+,
+{
+  "name":"org.apache.tomcat.util.descriptor.web.SessionConfig",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"setSessionTimeout","parameterTypes":["java.lang.String"] }
+  ]}
+,
+{
+  "name":"org.apache.tomcat.util.descriptor.web.WebXml",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"addMimeMapping","parameterTypes":["java.lang.String","java.lang.String"] }, 
+    {"name":"addServlet","parameterTypes":["org.apache.tomcat.util.descriptor.web.ServletDef"] }, 
+    {"name":"addServletMapping","parameterTypes":["java.lang.String","java.lang.String"] }, 
+    {"name":"addWelcomeFile","parameterTypes":["java.lang.String"] }, 
+    {"name":"setPublicId","parameterTypes":["java.lang.String"] }, 
+    {"name":"setRequestCharacterEncoding","parameterTypes":["java.lang.String"] }, 
+    {"name":"setResponseCharacterEncoding","parameterTypes":["java.lang.String"] }, 
+    {"name":"setSessionConfig","parameterTypes":["org.apache.tomcat.util.descriptor.web.SessionConfig"] }
+  ]}
+,
+{
+  "name":"org.apache.tomcat.util.modeler.AttributeInfo",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"setIs","parameterTypes":["boolean"] }, 
+    {"name":"setReadable","parameterTypes":["boolean"] }, 
+    {"name":"setWriteable","parameterTypes":["boolean"] }
+  ]}
+,
+{
+  "name":"org.apache.tomcat.util.modeler.BaseModelMBean",
+  "queriedMethods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.tomcat.util.modeler.FeatureInfo",
+  "methods":[
+    {"name":"setDescription","parameterTypes":["java.lang.String"] }, 
+    {"name":"setName","parameterTypes":["java.lang.String"] }, 
+    {"name":"setType","parameterTypes":["java.lang.String"] }
+  ]}
+,
+{
+  "name":"org.apache.tomcat.util.modeler.ManagedBean",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"addAttribute","parameterTypes":["org.apache.tomcat.util.modeler.AttributeInfo"] }, 
+    {"name":"addOperation","parameterTypes":["org.apache.tomcat.util.modeler.OperationInfo"] }, 
+    {"name":"setClassName","parameterTypes":["java.lang.String"] }, 
+    {"name":"setDescription","parameterTypes":["java.lang.String"] }, 
+    {"name":"setDomain","parameterTypes":["java.lang.String"] }, 
+    {"name":"setGroup","parameterTypes":["java.lang.String"] }, 
+    {"name":"setName","parameterTypes":["java.lang.String"] }, 
+    {"name":"setType","parameterTypes":["java.lang.String"] }
+  ]}
+,
+{
+  "name":"org.apache.tomcat.util.modeler.OperationInfo",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":[] }, 
+    {"name":"addParameter","parameterTypes":["org.apache.tomcat.util.modeler.ParameterInfo"] }, 
+    {"name":"setImpact","parameterTypes":["java.lang.String"] }, 
+    {"name":"setReturnType","parameterTypes":["java.lang.String"] }
+  ]}
+,
+{
+  "name":"org.apache.tomcat.util.modeler.ParameterInfo",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.tomcat.util.modeler.modules.MbeansDescriptorsDigesterSource",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.tomcat.util.modeler.modules.MbeansDescriptorsIntrospectionSource",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.tomcat.util.net.SSLHostConfig",
+  "queriedMethods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.apache.tomcat.util.net.SocketProperties",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"org.apache.tomcat.websocket.pojo.PojoEndpointBase"}
+,
+{
+  "name":"org.apache.tomcat.websocket.pojo.PojoEndpointClient"}
+,
+{
+  "name":"org.apache.tomcat.websocket.pojo.PojoEndpointServer"}
+,
+{
+  "name":"org.apache.tomcat.websocket.server.WsFilter",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"org.apache.tomcat.websocket.server.WsSci",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.graalvm.nativeimage.ImageInfo",
+  "methods":[{"name":"inImageCode","parameterTypes":[] }]}
+,
+{
+  "name":"sun.management.ClassLoadingImpl",
+  "queryAllPublicConstructors":true}
+,
+{
+  "name":"sun.management.CompilationImpl",
+  "queryAllPublicConstructors":true}
+,
+{
+  "name":"sun.management.ManagementFactoryHelper$1",
+  "queryAllPublicConstructors":true}
+,
+{
+  "name":"sun.management.ManagementFactoryHelper$PlatformLoggingImpl",
+  "queryAllPublicConstructors":true}
+,
+{
+  "name":"sun.management.MemoryImpl",
+  "queryAllPublicConstructors":true}
+,
+{
+  "name":"sun.management.MemoryManagerImpl",
+  "queryAllPublicConstructors":true}
+,
+{
+  "name":"sun.management.MemoryPoolImpl",
+  "queryAllPublicConstructors":true}
+,
+{
+  "name":"sun.management.RuntimeImpl",
+  "queryAllPublicConstructors":true}
+,
+{
+  "name":"sun.security.provider.DRBG",
+  "methods":[{"name":"<init>","parameterTypes":["java.security.SecureRandomParameters"] }]}
+,
+{
+  "name":"sun.security.provider.SHA",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"sun.security.provider.SHA2$SHA256",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"sun.security.provider.SecureRandom",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+
+]

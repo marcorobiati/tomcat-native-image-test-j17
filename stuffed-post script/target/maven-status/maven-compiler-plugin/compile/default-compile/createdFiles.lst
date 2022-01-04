@@ -1,0 +1,7 @@
+catalinaembedded\Catalina\localhost\ContextXml__TomcatNativeImageTest.class
+com\mycompany\tomcatnativeimagetest\init\InitClass.class
+catalinaembedded\ContextXmlDefault.class
+com\mycompany\tomcatnativeimagetest\servlet\ToPageJspServlet.class
+com\mycompany\tomcatnativeimagetest\util\FileUtil.class
+TomcatNativeImageTest\org\apache\jsp\page_jsp.class
+catalinaembedded\ServerXml.class
